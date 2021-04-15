@@ -1,0 +1,10 @@
+C:\Users\tunca\source\repos\WpfApp_UpWork\WpfApp_UpWork\bin\Release\net5.0-windows\publish\WpfApp_UpWork.exe
+C:\Users\tunca\source\repos\WpfApp_UpWork\WpfApp_UpWork\bin\Release\net5.0-windows\publish\WpfApp_UpWork.dll
+C:\Users\tunca\source\repos\WpfApp_UpWork\WpfApp_UpWork\bin\Release\net5.0-windows\publish\WpfApp_UpWork.deps.json
+C:\Users\tunca\source\repos\WpfApp_UpWork\WpfApp_UpWork\bin\Release\net5.0-windows\publish\WpfApp_UpWork.runtimeconfig.json
+C:\Users\tunca\source\repos\WpfApp_UpWork\WpfApp_UpWork\bin\Release\net5.0-windows\publish\WpfApp_UpWork.pdb
+C:\Users\tunca\source\repos\WpfApp_UpWork\WpfApp_UpWork\bin\Release\net5.0-windows\publish\System.Drawing.Common.dll
+C:\Users\tunca\source\repos\WpfApp_UpWork\WpfApp_UpWork\bin\Release\net5.0-windows\publish\System.Management.dll
+C:\Users\tunca\source\repos\WpfApp_UpWork\WpfApp_UpWork\bin\Release\net5.0-windows\publish\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tunca\source\repos\WpfApp_UpWork\WpfApp_UpWork\bin\Release\net5.0-windows\publish\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tunca\source\repos\WpfApp_UpWork\WpfApp_UpWork\bin\Release\net5.0-windows\publish\runtimes\win\lib\netcoreapp2.0\System.Management.dll
